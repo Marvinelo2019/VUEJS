@@ -27,7 +27,7 @@
         >
       </li>
     </ul>
-    <h3>Escenciales Links</h3>
+    <h3>Escenciales ENLACES</h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
